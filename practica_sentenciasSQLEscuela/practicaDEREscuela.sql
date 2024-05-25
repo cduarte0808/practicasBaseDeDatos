@@ -21,7 +21,7 @@ CREATE TABLE Perfil(Id INT AUTO_INCREMENT,
 					id_estudiante INT,
 					PRIMARY KEY (Id),
 					FOREIGN KEY (id_estudiante) REFERENCES Estudiante(Id)
-					)
+					);
 					
 CREATE TABLE Profesor(Id INT AUTO_INCREMENT,
 					nombre VARCHAR(100),
