@@ -1,0 +1,67 @@
+[
+    {
+        "nombreproducto":"Celular MOTOROLA G84 256GB",
+        "calificacion":"4.2",
+        "caracteristicas":[
+                            {
+                                "memoria":"6gb",
+                                "color":"rojo",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"Mediatek"    
+                            },
+                            {
+                                "memoria":"8gb",
+                                "color":"negro",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"SnapDragon"    
+                            }
+                          ],
+        "resumenproducto":"Celular MOTOROLA G84 256GB",
+        "precio":659900,
+        "garantia":"12 meses"
+    },
+    {
+        "nombreproducto":"Celular OPPO A79 256GB",
+        "calificacion":"4.5",
+        "caracteristicas":[
+                            {
+                                "memoria":"8gb",
+                                "color":"blanco",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"Mediatek"    
+                            },
+                            {
+                                "memoria":"12gb",
+                                "color":"azul",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"SnapDragon"    
+                            }
+                          ],
+        "resumenproducto":"Celular OPPO A79 256GB",
+        "precio":999900,
+        "garantia":"12 meses"
+    }
+    {
+        "nombreproducto":"Iphone 11",
+        "calificacion":"4.9",
+        "caracteristicas":[
+                            {
+                                "memoria":"128gb",
+
+                                "color":"blanco",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"Mediatek"    
+                            },
+                            {
+                                "memoria":"128gb",
+                                "color":"azul",
+                                "tamaño de pantalla":"Amoled",
+                                "procesador":"SnapDragon"    
+                            }
+                          ],
+        "resumenproducto":"Iphone 11",
+        "precio":1919010,
+        "garantia":"12 meses"
+    }
+    
+]

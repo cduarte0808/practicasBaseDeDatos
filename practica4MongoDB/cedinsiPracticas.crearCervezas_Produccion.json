@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "666cebc1a3399ae4f4b2e9d7"
+  },
+  "nombreCerveza": "Dark",
+  "categoriaCerveza": "Lager",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.25
+    },
+    {
+      "nombreMateriaPrima": "cebada",
+      "cantidad": 175
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 1
+    },
+    {
+      "nombreMateriaPrima": "malta",
+      "cantidad": 350
+    }
+  ],
+  "cantidadCervezasProd": "300"
+},
+{
+  "_id": {
+    "$oid": "666cf52fa3399ae4f4b2e9de"
+  },
+  "nombreCerveza": "Pale",
+  "categoriaCerveza": "Lager",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.25
+    },
+    {
+      "nombreMateriaPrima": "cebada",
+      "cantidad": 175
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 2
+    },
+    {
+      "nombreMateriaPrima": "malta",
+      "cantidad": 400
+    }
+  ],
+  "cantidadCervezasProd": "500"
+},
+{
+  "_id": {
+    "$oid": "666cf573a3399ae4f4b2e9df"
+  },
+  "nombreCerveza": "Bocks",
+  "categoriaCerveza": "Lager",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.25
+    },
+    {
+      "nombreMateriaPrima": "cebada",
+      "cantidad": 175
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 5
+    },
+    {
+      "nombreMateriaPrima": "malta",
+      "cantidad": 300
+    }
+  ],
+  "cantidadCervezasProd": "800"
+},
+{
+  "_id": {
+    "$oid": "666cf5e7a3399ae4f4b2e9e0"
+  },
+  "nombreCerveza": "Stouts",
+  "categoriaCerveza": "Ales",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.25
+    },
+    {
+      "nombreMateriaPrima": "Lupulo",
+      "cantidad": 175
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 10
+    },
+    {
+      "nombreMateriaPrima": "malta",
+      "cantidad": 400
+    }
+  ],
+  "cantidadCervezasProd": "550"
+},
+{
+  "_id": {
+    "$oid": "666cf60ca3399ae4f4b2e9e1"
+  },
+  "nombreCerveza": "Porters",
+  "categoriaCerveza": "Ales",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.25
+    },
+    {
+      "nombreMateriaPrima": "Lupulo",
+      "cantidad": 185
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 7
+    },
+    {
+      "nombreMateriaPrima": "malta",
+      "cantidad": 200
+    }
+  ],
+  "cantidadCervezasProd": "750"
+},
+{
+  "_id": {
+    "$oid": "666cf637a3399ae4f4b2e9e2"
+  },
+  "nombreCerveza": "Belgian",
+  "categoriaCerveza": "Ales",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.25
+    },
+    {
+      "nombreMateriaPrima": "Lupulo",
+      "cantidad": 200
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 10
+    },
+    {
+      "nombreMateriaPrima": "malta",
+      "cantidad": 280
+    }
+  ],
+  "cantidadCervezasProd": "950"
+},
+{
+  "_id": {
+    "$oid": "666cf6c7a3399ae4f4b2e9e3"
+  },
+  "nombreCerveza": "Dorada Pilsen",
+  "categoriaCerveza": "Extrafermentada",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.5
+    },
+    {
+      "nombreMateriaPrima": "Lupulo",
+      "cantidad": 200
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 15
+    },
+    {
+      "nombreMateriaPrima": "Cebada",
+      "cantidad": 180
+    }
+  ],
+  "cantidadCervezasProd": "470"
+},
+{
+  "_id": {
+    "$oid": "666cf714a3399ae4f4b2e9e4"
+  },
+  "nombreCerveza": "Negra Fuerte",
+  "categoriaCerveza": "Extrafermentada",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.5
+    },
+    {
+      "nombreMateriaPrima": "Lupulo",
+      "cantidad": 300
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 20
+    },
+    {
+      "nombreMateriaPrima": "Cebada",
+      "cantidad": 180
+    }
+  ],
+  "cantidadCervezasProd": "670"
+},
+{
+  "_id": {
+    "$oid": "666cf739a3399ae4f4b2e9e5"
+  },
+  "nombreCerveza": "Rubia Dulce",
+  "categoriaCerveza": "Extrafermentada",
+  "materiaPrimaCerveza": [
+    {
+      "nombreMateriaPrima": "agua",
+      "cantidad": 0.5
+    },
+    {
+      "nombreMateriaPrima": "Lupulo",
+      "cantidad": 100
+    },
+    {
+      "nombreMateriaPrima": "levadura",
+      "cantidad": 30
+    },
+    {
+      "nombreMateriaPrima": "Cebada",
+      "cantidad": 280
+    }
+  ],
+  "cantidadCervezasProd": "870"
+}]

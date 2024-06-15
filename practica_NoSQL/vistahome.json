@@ -1,0 +1,50 @@
+[
+    {
+        "nombreproducto":"Motog84",
+        "imagen":"Motog84.png",
+        "categoria":"celulares",
+        "marca":"Motorola",
+        "valor":"819900",
+        "descuento":"57%"
+    },
+    {
+        "nombreproducto":"A79",
+        "imagen":"A79.png",
+        "categoria":"celulares",
+        "marca":"Oppo",
+        "valor":"999900",
+        "descuento":"50%"
+    },      
+    {
+        "nombreproducto":"X7b",
+        "imagen":"X7B.png",
+        "categoria":"celulares",
+        "marca":"Honor",
+        "valor":"932900",
+        "descuento":"25%"
+    },
+    {
+        "nombreproducto":"ALL IN ONE",
+        "imagen":"allinone.png",
+        "categoria":"computadores",
+        "marca":"lenovo",
+        "valor":"1894900",
+        "descuento":"40%"
+    }, 
+    {
+        "nombreproducto":"MAC BOOK AIR",
+        "imagen":"macbookair.png",
+        "categoria":"computadores",
+        "marca":"Apple",
+        "valor":"3899000",
+        "descuento":"40%"
+    },      
+    {
+        "nombreproducto":"pavilion",
+        "imagen":"pavilion.png",
+        "categoria":"computadores",
+        "marca":"HP",
+        "valor":"2099000",
+        "descuento":"43%"
+    }
+]

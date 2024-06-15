@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "666cda67a3399ae4f4b2e9c6"
+  },
+  "nombreMateriaPrima": "Agua",
+  "cantidadInicial": "500000",
+  "cantidadStock": "500000",
+  "unidadMedida": "litros"
+},
+{
+  "_id": {
+    "$oid": "666cda82a3399ae4f4b2e9c7"
+  },
+  "nombreMateriaPrima": "Cebada",
+  "cantidadInicial": "2000000",
+  "cantidadStock": "2000000",
+  "unidadMedida": "gramos"
+},
+{
+  "_id": {
+    "$oid": "666cdaaca3399ae4f4b2e9c8"
+  },
+  "nombreMateriaPrima": "Malta",
+  "cantidadInicial": "2000000",
+  "cantidadStock": "2000000",
+  "unidadMedida": "mg/Litro"
+},
+{
+  "_id": {
+    "$oid": "666cdac0a3399ae4f4b2e9c9"
+  },
+  "nombreMateriaPrima": "Lupulo",
+  "cantidadInicial": "2000000",
+  "cantidadStock": "2000000",
+  "unidadMedida": "gramos"
+},
+{
+  "_id": {
+    "$oid": "666cdadba3399ae4f4b2e9ca"
+  },
+  "nombreMateriaPrima": "Levadura",
+  "cantidadInicial": "500000",
+  "cantidadStock": "500000",
+  "unidadMedida": "gramos"
+}]

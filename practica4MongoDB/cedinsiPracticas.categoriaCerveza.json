@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "666218914d3e6874c6fe4730"
+  },
+  "nombreCategoria": "Lagers",
+  "PVP": "13.4"
+},
+{
+  "_id": {
+    "$oid": "666218d64d3e6874c6fe4731"
+  },
+  "nombreCategoria": "Ales",
+  "PVP": "12.5"
+},
+{
+  "_id": {
+    "$oid": "666cd96aa3399ae4f4b2e9c4"
+  },
+  "nombreCategoria": "ExtraFermentada",
+  "PVP": "14.2"
+}]

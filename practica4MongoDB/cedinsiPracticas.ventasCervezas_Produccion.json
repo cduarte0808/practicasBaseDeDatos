@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "666cfcafa3399ae4f4b2e9e7"
+  },
+  "nombreCerveza": "Dark",
+  "precioUnidad": "13.4",
+  "precioTotalVenta": "1340",
+  "cantidadVendida": "100",
+  "categoriaCerveza": "Lagers"
+},
+{
+  "_id": {
+    "$oid": "666cfdbaa3399ae4f4b2e9e8"
+  },
+  "nombreCerveza": "Pale",
+  "precioUnidad": "13.4",
+  "precioTotalVenta": "2010",
+  "cantidadVendida": "150",
+  "categoriaCerveza": "Lagers"
+},
+{
+  "_id": {
+    "$oid": "666cfde5a3399ae4f4b2e9e9"
+  },
+  "nombreCerveza": "Bocks",
+  "precioUnidad": "13.4",
+  "precioTotalVenta": "2680",
+  "cantidadVendida": "200",
+  "categoriaCerveza": "Lagers"
+},
+{
+  "_id": {
+    "$oid": "666cfe70a3399ae4f4b2e9ea"
+  },
+  "nombreCerveza": "Stouts",
+  "precioUnidad": "12.5",
+  "precioTotalVenta": "3125",
+  "cantidadVendida": "250",
+  "categoriaCerveza": "Ales"
+},
+{
+  "_id": {
+    "$oid": "666cfe98a3399ae4f4b2e9eb"
+  },
+  "nombreCerveza": "Porters",
+  "precioUnidad": "12.5",
+  "precioTotalVenta": "4375",
+  "cantidadVendida": "350",
+  "categoriaCerveza": "Ales"
+},
+{
+  "_id": {
+    "$oid": "666cfebea3399ae4f4b2e9ec"
+  },
+  "nombreCerveza": "Belgian",
+  "precioUnidad": "12.5",
+  "precioTotalVenta": "5000",
+  "cantidadVendida": "400",
+  "categoriaCerveza": "Ales"
+},
+{
+  "_id": {
+    "$oid": "666cff88a3399ae4f4b2e9ed"
+  },
+  "nombreCerveza": "Dorada Pilsen",
+  "precioUnidad": "14.2",
+  "precioTotalVenta": "5680",
+  "cantidadVendida": "400",
+  "categoriaCerveza": "ExtraFermentada"
+},
+{
+  "_id": {
+    "$oid": "666cffada3399ae4f4b2e9ee"
+  },
+  "nombreCerveza": "Negra Fuerte",
+  "precioUnidad": "14.2",
+  "precioTotalVenta": "4260",
+  "cantidadVendida": "300",
+  "categoriaCerveza": "ExtraFermentada"
+},
+{
+  "_id": {
+    "$oid": "666cfff1a3399ae4f4b2e9ef"
+  },
+  "nombreCerveza": "Rubia Dulce",
+  "precioUnidad": "14.2",
+  "precioTotalVenta": "6390",
+  "cantidadVendida": "450",
+  "categoriaCerveza": "ExtraFermentada"
+}]
